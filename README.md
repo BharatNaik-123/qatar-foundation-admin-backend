@@ -73,7 +73,7 @@ qatar_foundation_admin/
 ### 1️⃣ Clone Repository
 
 ```id="clonecmd"
-git clone <your-repo-link>
+git clone <git clone https://github.com/yourusername/qatar-foundation-admin-backend.git>
 cd qatar_foundation_admin
 ```
 
